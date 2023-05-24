@@ -12,7 +12,7 @@ description:    A port of <https://github.com/juspay/purescript-sequelize> into 
 author:         Artyom Kazak
 maintainer:     artyom.kazak@juspay.in
 copyright:      2020 Juspay
-license:        BSD3
+license:        BSD-3-Clause
 build-type:     Simple
 extra-source-files:
     README.md
